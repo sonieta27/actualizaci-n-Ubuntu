@@ -39,6 +39,12 @@ sudo apt install synaptic
 '''
 ![VirtualBox_Ubuntu2_27_03_2023_10_27_04](https://user-images.githubusercontent.com/122264807/227885248-9a65e339-e3e5-4350-93af-db191da9d809.png)
 
+Al entrar en la aplicación observamos una larga lista de paquetes que podemos instalar, le daremos a la lupa y buscaremos el paquete que deseamos instalar:
+![marcamos lo que queremos instalar ](https://user-images.githubusercontent.com/122264807/227889714-359ae3f7-e340-4e7d-8201-4edbc5c8391c.png)
+
+Le damos a seguir o marcar:
+
+![le damos a marcar](https://user-images.githubusercontent.com/122264807/227889904-30d643b6-5dec-4371-a12f-6699ec5558e2.png)
 
 
 
