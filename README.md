@@ -46,6 +46,18 @@ Le damos a seguir o marcar:
 
 ![le damos a marcar](https://user-images.githubusercontent.com/122264807/227889904-30d643b6-5dec-4371-a12f-6699ec5558e2.png)
 
+Le damos a aplicar:
+
+![le damos a apply](https://user-images.githubusercontent.com/122264807/228452431-49a1e4f9-9ae2-4289-b5e2-4e61f8f43c55.png)
+
+Aplicamos de nuevo:
+![le volvemos a dar a apply](https://user-images.githubusercontent.com/122264807/228452503-05c0a3f8-4a45-416b-8a04-3d131705f6cf.png)
+
+Y de este modo, se instalará la aplicación o prgrama que hemos seleccionado:
+
+![entonces se instalará](https://user-images.githubusercontent.com/122264807/228452661-b6d9d279-f6ba-4089-98f9-b2b4112c9ebb.png)
+
+
 
 
 
