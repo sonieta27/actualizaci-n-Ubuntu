@@ -53,11 +53,11 @@ Le damos a aplicar:
 Aplicamos de nuevo:
 ![le volvemos a dar a apply](https://user-images.githubusercontent.com/122264807/228452503-05c0a3f8-4a45-416b-8a04-3d131705f6cf.png)
 
-Y de este modo, se instalará la aplicación o prgrama que hemos seleccionado:
+Y de este modo, se instalará la aplicación o programa que hemos seleccionado:
 
 ![entonces se instalará](https://user-images.githubusercontent.com/122264807/228452661-b6d9d279-f6ba-4089-98f9-b2b4112c9ebb.png)
 
-
+De este modo funciona con cualquier otro software o aplicación.
 
 
 
